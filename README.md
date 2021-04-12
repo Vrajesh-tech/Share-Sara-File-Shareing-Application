@@ -1,7 +1,5 @@
-## NitroShare for Android
+## Share Sara for Android
 
-[![Build Status](https://travis-ci.org/nitroshare/nitroshare-android.svg?branch=master)](https://travis-ci.org/nitroshare/nitroshare-android)
-[![MIT License](http://img.shields.io/badge/license-MIT-9370d8.svg?style=flat)](http://opensource.org/licenses/MIT)
 
 NitroShare for Android simplifies the task of transferring files and directories from one device to another. Some of its features include:
 
